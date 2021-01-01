@@ -1,0 +1,6 @@
+alias m="cargo build"
+alias r="m && cargo run"
+alias rtrace="m && RUST_BACKTRACE=1 cargo run"
+alias rfull="m && RUST_BACKTRACE=full cargo run"
+alias t="m && cargo test"
+alias td="m && t -- --nocapture"
