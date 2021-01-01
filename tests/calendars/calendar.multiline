@@ -1,0 +1,17 @@
+/* vim:noexpandtab */
+1 Jan	Line 1
+	Line 2
+
+2 Jan	Line 1
+	
+	Line 3 (Line 2 is blank, save for a tab, and will not be shown.)
+
+2 Jan	Line 1
+
+	Line 3 (Line 2 is blank with no tab and will not be shown.)
+
+3 Jan	Line 1
+    Line 2 (Does not begin with a tab and will not be shown.)
+
+4 Jan	Line 1
+Line 2 (Begins with line and will not be shown.)
